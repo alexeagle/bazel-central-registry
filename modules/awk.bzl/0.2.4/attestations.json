@@ -1,0 +1,17 @@
+{
+    "mediaType": "application/vnd.build.bazel.registry.attestation+json;version=1.0.0",
+    "attestations": {
+        "source.json": {
+            "url": "https://github.com/alexeagle/awk.bzl/releases/download/v0.2.4/source.json.intoto.jsonl",
+            "integrity": "sha256-EZBsX+moox9Co0KgEKhsphNEKawmJOFEvH098i0oo8U="
+        },
+        "MODULE.bazel": {
+            "url": "https://github.com/alexeagle/awk.bzl/releases/download/v0.2.4/MODULE.bazel.intoto.jsonl",
+            "integrity": "sha256-ZQnE/nvVKZvBZG4axtY6zZK2+VIzdY7rkUknipWpRDg="
+        },
+        "awk.bzl-v0.2.4.tar.gz": {
+            "url": "https://github.com/alexeagle/awk.bzl/releases/download/v0.2.4/awk.bzl-v0.2.4.tar.gz.intoto.jsonl",
+            "integrity": "sha256-Lafjn5mMCGsrsYAI0h5aFYpR6WipD4EbBji/fGaDkhc="
+        }
+    }
+}

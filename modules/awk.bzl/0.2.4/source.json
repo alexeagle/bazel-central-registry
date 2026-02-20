@@ -1,0 +1,10 @@
+{
+    "integrity": "sha256-my2eaJZj4661nxU0DhsptLUChwb3TqlT7CM+2QO7ZA0=",
+    "strip_prefix": "awk.bzl-0.2.4",
+    "docs_url": "https://github.com/alexeagle/awk.bzl/releases/download/v0.2.4/awk.bzl-v0.2.4.docs.tar.gz",
+    "url": "https://github.com/alexeagle/awk.bzl/releases/download/v0.2.4/awk.bzl-v0.2.4.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-J3FNMX/LRKZ83KxnSUNrnXJEd/72LbMnPzKmx0XeWh8="
+    },
+    "patch_strip": 1
+}
